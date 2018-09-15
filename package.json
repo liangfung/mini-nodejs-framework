@@ -1,0 +1,20 @@
+{
+  "name": "mini-nodejs-framework",
+  "version": "1.0.0",
+  "description": "> 一个非常简化的node.js web开发框架",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liangfung/mini-nodejs-framework.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liangfung/mini-nodejs-framework/issues"
+  },
+  "homepage": "https://github.com/liangfung/mini-nodejs-framework#readme"
+}
